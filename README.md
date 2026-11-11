@@ -41,6 +41,17 @@ The PCB uses a four-layer architecture to simplify power distribution and ground
 - `.kicad_sch` – Electrical schematic, if available.
 - `README.md` – Project documentation.
 
+## PCB Design
+
+### 3D View
+![PCB 3D](PCB_3D.png)
+
+### Front View
+![PCB Front](PCB_front.png)
+
+### Back View
+![PCB Back](PCB_back.png)
+
 ## Tools
 
 - KiCad 9.0
